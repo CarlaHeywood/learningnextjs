@@ -1,10 +1,10 @@
 # Learning Next.js
 
-Creating a simple website with Next.js and Tailwind CSS
+Creating a simple website with Next.js and Tailwind CSS <br>
 **Documentation:** <a href="https://tailwindcss.com/docs/guides/nextjs">Next.js & TailwindCSS</a>
 
 
-Looking into, useStates, Props, Hooks
+Looking into, useStates, Props, & Hooks next
 
 
 ## Getting Started
