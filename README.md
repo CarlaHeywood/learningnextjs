@@ -43,24 +43,25 @@ Remove any CSS in `global.css`. Replace with Tailwind detrivatives.
 ### Add Tailwind to PostCSS Configuration
 Add postcss plugin to `post.config.js`
 
-```json
+```js
     module.exports = {
         plugins: {
             'postcss-import': {},
             tailwindcss: {},
             autoprefixer: {},
-        },
-    }
+            },
+        }
 ```
 ### Configure path to templates
 Add the paths to all of your template files in `tailwind.config.js` file.
 
-```json
+```js
     module.exports = {
         content: [
             './pages/**/*.{js,jsx,ts,tsx}',
             './components/**/*.{js,jsx,ts,tsx}'
         ],
+    }
 ```
 
 ## Run on localhost

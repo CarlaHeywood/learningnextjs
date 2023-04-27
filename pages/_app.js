@@ -10,7 +10,6 @@ export default function App({ Component, pageProps }) {
             <div className='place-content-center text-center p-5 w-full'>
                 <div className='text-gray-300'>© Carla Heywood</div>
             </div>
-           
         </>
     )
 }
