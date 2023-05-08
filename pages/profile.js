@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import ProfileContent from '../components/profilecontent'
+import ProfileContent from '../components/profile/profilecontent'
 
 export default function Profile() {
     return (
